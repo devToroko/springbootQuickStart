@@ -1,2 +1,2 @@
-This Project is for my SpringBoot Study, based on "SpringBoot Quick Start"(채규태 지음)
+This Project is for my SpringBoot Study, based on book named "SpringBoot Quick Start"(채규태 지음)
 
